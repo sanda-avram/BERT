@@ -1,6 +1,7 @@
 # BERT
+## Fine-tunning the pretraied BERT model on ROST
 
-The source code for the tests mentioned in  "[BERT-based Authorship Attribution on the Romanian Dataset called ROST are processed with BERT] (https://www.researchgate.net/publication/367557751_BERT-based_Authorship_Attribution_on_the_Romanian_Dataset_called_ROST)"  and use the BERT pretrained model: "dumitrescustefan/bert-base-romanian-cased-v1"
+The source code for the tests mentioned in  "[BERT-based Authorship Attribution on the Romanian Dataset called ROST are processed with BERT](https://www.researchgate.net/publication/367557751_BERT-based_Authorship_Attribution_on_the_Romanian_Dataset_called_ROST)"  and use the BERT pretrained model: "dumitrescustefan/bert-base-romanian-cased-v1"
 
 The texts used for fine-tuning the pretrained model are those described in the paper called "[A comparison of several AI techniques for authorship attribution on Romanian texts](https://www.researchgate.net/publication/365299177_A_comparison_of_several_AI_techniques_for_authorship_attribution_on_Romanian_texts)".
 
